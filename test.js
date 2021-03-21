@@ -15,3 +15,8 @@ function a(){
   x += 1;
 }
 a();
+function a(){
+  var x = 0;
+  x += 9;
+}
+a();
