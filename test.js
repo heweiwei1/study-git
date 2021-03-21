@@ -10,3 +10,8 @@ function add(a,b){
 return a + 2*b;
 }
 add(1,4);
+function a(){
+  var x = 0;
+  x += 1;
+}
+a();
