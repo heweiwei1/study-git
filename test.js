@@ -20,3 +20,8 @@ function a(){
   x += 9;
 }
 a();
+function a(){
+  var x = 0;
+  x += 9;
+}
+a();
