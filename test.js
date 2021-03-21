@@ -25,3 +25,4 @@ function a(){
   x += 9;
 }
 a();
+const a = 10;
