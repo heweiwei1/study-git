@@ -7,6 +7,6 @@ function add1(a,b){
 }
 add1(3,4);
 function add(a,b){
-return a + 2b;
+return a + 2*b;
 }
 add(1,4);
